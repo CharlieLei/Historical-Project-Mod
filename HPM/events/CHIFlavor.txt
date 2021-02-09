@@ -209,20 +209,23 @@ country_event = {
         }
         CHI_1468 = { remove_core = CHI }
         CHI_1465 = { remove_core = CHI }
-        government = presidential_dictatorship
-        ruling_party_ideology = reactionary
-        political_reform = none_voting
+        government = democracy
+        ruling_party_ideology = conservative
+        political_reform = universal_weighted_voting
         political_reform = party_appointed
-        political_reform = no_meeting
+        political_reform = yes_meeting
         political_reform = state_press
-        political_reform = no_trade_unions
-        political_reform = underground_parties
+        political_reform = state_controlled
+        political_reform = harassment
         random_owned = {
             limit = { owner = { NOT = { tag = CHI } } }
             owner = {
                 change_tag = CHI
                 primary_culture = beifaren
                 add_accepted_culture = nanfaren
+                add_accepted_culture = hakka
+                add_accepted_culture = min
+                add_accepted_culture = yue
             }
         }
         any_pop = {
@@ -2133,11 +2136,6 @@ country_event = {
                 tag = TPG
                 QNG = { exists = no }
                 CHI = { exists = no }
-            }
-            AND = {
-                tag = CHI
-                TPG = { exists = no }
-                QNG = { exists = no }
             }
         }
         war = no
