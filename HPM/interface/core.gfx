@@ -716,7 +716,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Arial12_alpha"
-		fontname = "Arial12_alpha"
+		fontname = "Arial15chn"
 		color = 0xffffffff
 	}
 	
@@ -728,7 +728,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Arial14"
-		fontname = "Arial14"
+		fontname = "Arial15chn"
 		color = 0xffffffff
 		
 		colorcodes = {
@@ -744,10 +744,15 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Arial14_black"
-		fontname = "Arial14"
+		fontname = "Arial15chn"
 		color = 0xff000000
 		}
 	
+	bitmapfont = {
+		name = "Arial14_black_ori"
+		fontname = "Arial14"
+		color = 0xff000000
+		}
 	
 	
 	bitmapfont = {
@@ -949,37 +954,43 @@ bitmapfonts = {
 	}
 	
 
-	####       VICKY 2 FONTS BELOW         ############
+	####       VICKY 2 FONTS BELOW MAKEBYAI        ############
 	
 	bitmapfont = {
 		name = "old_english"
-		fontname = "old_english"
+		fontname = "Arial36chn"
 		color = 0xff333333
 	}
 
 	
 	bitmapfont = {
 		name = "tahoma_60"
-		fontname = "mapfont_56"
+		fontname = "Arial56chn"
 		color = 0xff333333
 	}
 
 	bitmapfont = {
 		name = "AnimatedMapText"
-		fontname = "tahoma_20_bold"
+		fontname = "Arial20chn"
 		color = 0xff7799ff
 	}
 	
 	bitmapfont = {
 		name = "Arial12_bold_black"
-		fontname = "Arial12_bold"
+		fontname = "Arial15chn"
 		color = 0xff000000
 		
 	}
 	
 	bitmapfont = {
-		name = "Arial12_bold"
+		name = "Arial12_bold_black_ori"
 		fontname = "Arial12_bold"
+		color = 0xff000000
+		
+	}
+	bitmapfont = {
+		name = "Arial12_bold"
+		fontname = "Arial15chn"
 		color = 0xffffffff
 		
 		colorcodes = {
@@ -994,7 +1005,28 @@ bitmapfonts = {
 	}
 	
 	bitmapfont = {
+		name = "Arial12_bold_ori"
+		fontname = "Arial12_bold"
+		color = 0xffffffff
+		
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}
+	}
+	bitmapfont = {
 		name = "Arial12_black"
+		fontname = "Arial15chn"
+		color = 0xff000000
+		
+	}
+	bitmapfont = {
+		name = "Arial12_black_ori"
 		fontname = "Arial12"
 		color = 0xff000000
 		
@@ -1002,6 +1034,20 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Arial12"
+		fontname = "Arial15chn"
+		color = 0xffffffff
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}		
+	}
+	bitmapfont = {
+		name = "Arial12_ori"
 		fontname = "Arial12"
 		color = 0xffffffff
 		colorcodes = {
@@ -1017,7 +1063,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Arial10"
-		fontname = "Arial10"
+		fontname = "Arial15chn"
 		color = 0xffffffff
 		colorcodes = {
 			W = { 255 255 255 }
@@ -1032,20 +1078,20 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Arial10_black"
-		fontname = "Arial10"
+		fontname = "Arial15chn"
 		color = 0xff000000	
 	}
 	
 
 bitmapfont = {
 		name = "vic_42_black"
-		fontname = "vic_42"
+		fontname = "Arial36chn"
 		color = 0xff000000	
 	}
 	
 	bitmapfont = {
 		name = "vic_42"
-		fontname = "vic_42"
+		fontname = "Arial36chn"
 		color = 0xffffffff
 		
 		colorcodes = {
@@ -1061,13 +1107,13 @@ bitmapfont = {
 	
 bitmapfont = {
 		name = "vic_32_black"
-		fontname = "vic_32"
+		fontname = "Arial36chn"
 		color = 0xff000000	
 	}
 	
 	bitmapfont = {
 		name = "vic_32"
-		fontname = "vic_32"
+		fontname = "Arial36chn"
 		color = 0xffffffff
 		
 		colorcodes = {
@@ -1082,22 +1128,42 @@ bitmapfont = {
 	}
 	bitmapfont = {
 		name = "news_22_black"
-		fontname = "news_22"
+		fontname = "Arial17chn2"
 		color = 0xff000000	
 	}
 	bitmapfont = {
 		name = "vic_22_black"
+		fontname = "Arial23chn"
+		color = 0xff000000	
+	}
+	bitmapfont = {
+		name = "vic_22_black_ori"
 		fontname = "vic_22"
 		color = 0xff000000	
 	}
 	bitmapfont = {
 		name = "vic_22_bl"
-		fontname = "vic_22_bl"
+		fontname = "Arial23chn_bl"
 		color = 0xff000000	
 	}
 	
 	bitmapfont = {
 		name = "vic_22"
+		fontname = "Arial23chn"
+		color = 0xffffffff
+		
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}
+	}
+	bitmapfont = {
+		name = "vic_22_ori"
 		fontname = "vic_22"
 		color = 0xffffffff
 		
@@ -1113,13 +1179,13 @@ bitmapfont = {
 	}
 bitmapfont = {
 		name = "vic_22_black_bold"
-		fontname = "vic_22_bold"
+		fontname = "Arial23chn"
 		color = 0xff000000	
 	}
 	
 	bitmapfont = {
 		name = "vic_22_bold"
-		fontname = "vic_22_bold"
+		fontname = "Arial23chn"
 		color = 0xffffffff
 		
 		colorcodes = {
@@ -1134,19 +1200,54 @@ bitmapfont = {
 	}
 	bitmapfont = {
 		name = "news_18_black"
-		fontname = "news_18"
+		fontname = "Arial17chn"
 		color = 0xff000000	
 	}
 
 	bitmapfont = {
 		name = "vic_18_black"
+		fontname = "Arial17chn2"
+		color = 0xff000000	
+	}
+	bitmapfont = {
+		name = "vic_18_black_ori"
 		fontname = "vic_18"
 		color = 0xff000000	
 	}
 	
 	bitmapfont = {
 		name = "vic_18"
+		fontname = "Arial17chn2"
+		color = 0xffffffff
+		
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}
+	}
+	bitmapfont = {
+		name = "vic_18_ori"
 		fontname = "vic_18"
+		color = 0xffffffff
+		
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}
+	}
+	bitmapfont = {
+		name = "vic_18_chn"
+		fontname = "Arial17chn"
 		color = 0xffffffff
 		
 		colorcodes = {
@@ -1161,13 +1262,13 @@ bitmapfont = {
 	}
 bitmapfont = {
 		name = "vic_18_black_bold"
-		fontname = "vic_18_bold"
+		fontname = "Arial17chn2"
 		color = 0xff000000	
 	}
 	
 	bitmapfont = {
 		name = "vic_18_bold"
-		fontname = "vic_18_bold"
+		fontname = "Arial17chn2"
 		color = 0xffffffff
 		
 		colorcodes = {
@@ -1182,33 +1283,33 @@ bitmapfont = {
 	}
 bitmapfont = {
 		name = "vic_18_headline"
-		fontname = "vic_18_headline"
+		fontname = "Arial17chn2"
 		color = 0xffffffff	
 	}
 bitmapfont = {
 		name = "vic_headline"
-		fontname = "vic_headline"
+		fontname = "Arial23chn"
 		color = 0xffffffff	
 	}
 bitmapfont = {
 		name = "vic_headline2"
-		fontname = "vic_headline2"
+		fontname = "Arial23chn"
 		color = 0xffffffff	
 	}
 bitmapfont = {
 		name = "vic_title"
-		fontname = "vic_title"
+		fontname = "Arial36chn"
 		color = 0xffffffff	
 	}
 bitmapfont = {
 		name = "mapfont_56"
-		fontname = "mapfont_56"
+		fontname = "Arial56chn"
 		color = 0xffffffff	
 	}
 
 	bitmapfont = {
 		name = "mapfont_56_small"
-		fontname = "vic_22_bl"
+		fontname = "Arial23chn_bl"
 		color = 0xff000000	
 	}
 
@@ -1221,7 +1322,7 @@ fonts = {
 
 	font = {
 		name = "FPS_Font"
-		fontname = "Arial"
+		fontname = "simsun"
 		height = 14
 		charset = "ANSI"		
 		color = 0xffaaffff
@@ -1259,4 +1360,11 @@ fonts = {
 		color = 0xffffffff
 	}
 	
+	font = {
+		name = "messagelog"
+			fontname = "simsun"
+		height = 14
+		charset = "GB2312"		
+		color = 0xffffffff
+	}
 }

@@ -468,7 +468,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "goods_price"
 				position = { x = 260 y = 17 }
-				font = "vic_22"
+				font = "vic_22_ori"
 				text = "99"
 				maxWidth = 150
 				maxHeight = 32	
@@ -484,7 +484,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = { x = 98 y = 110 }
 				name = "price_chart_low"
-				font = "vic_18_black"
+				font = "vic_18_black_ori"
 				text = "0"	
 				maxWidth = 170
 				maxHeight = 10
@@ -493,7 +493,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = { x = 98 y = 50 }
 				name = "price_chart_high"
-				font = "vic_18_black"
+				font = "vic_18_black_ori"
 				text = "99"	
 				maxWidth = 170
 				maxHeight = 10
@@ -599,7 +599,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = {x= 362 y =291}
 				name = "slider_value"
-				font = "vic_22_black"
+				font = "vic_22_black_ori"
 				text = "1000"	
 				maxWidth = 50
 				maxHeight = 40
@@ -689,7 +689,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 37 y = 1 }
 			name = "price"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99¤"	
 			maxWidth = 50
 			maxHeight = 24
@@ -736,7 +736,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 34 y = 4 }
 			name = "value"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24
@@ -765,7 +765,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 50 y = 4 }
 			name = "value"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24
@@ -775,7 +775,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 91 y = 4 }
 			name = "change"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 60
 			maxHeight = 24
@@ -804,7 +804,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 33 y = 4 }
 			name = "activity"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24
@@ -814,7 +814,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 89 y = 4 }
 			name = "cost"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24
@@ -844,7 +844,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 50 y = 4 }
 			name = "total"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24
@@ -854,7 +854,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 95 y = 4 }
 			name = "produce_change"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24
@@ -864,7 +864,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 145 y = 4 }
 			name = "exported"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24

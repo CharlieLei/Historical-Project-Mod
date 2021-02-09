@@ -112,7 +112,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "tariffs_percent"
 			position = { x = 802 y = 502 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "34%"	
 			maxWidth = 100
 			maxHeight = 32	
@@ -191,7 +191,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "tax_2_inc"
 			position = { x = 405 y = 101 }
-			font = "vic_22_black"
+			font = "vic_22_black_ori"
 			text = "10p"	
 			maxWidth = 100
 			maxHeight = 32	
@@ -201,7 +201,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "tax_1_inc"
 			position = { x = 405 y = 183 }
-			font = "vic_22_black"
+			font = "vic_22_black_ori"
 			text = "10p"	
 			maxWidth = 100
 			maxHeight = 32	
@@ -211,7 +211,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "tax_0_inc"
 			position = { x = 405 y = 265 }
-			font = "vic_22_black"
+			font = "vic_22_black_ori"
 			text = "10p"	
 			maxWidth = 100
 			maxHeight = 32	
@@ -232,7 +232,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gold_inc"
 			position = { x = 420 y = 305 }
-			font = "vic_22_black"
+			font = "vic_22_black_ori"
 			text = "10p"	
 			maxWidth = 60
 			maxHeight = 32	
@@ -241,9 +241,9 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "total_inc"
-			position = { x = 270 y = 338 }
+			position = { x = 287 y = 335 }
 			font = "vic_32_black"
-			text = "10¤"	
+			text = "10ï¿½"	
 			maxWidth = 190
 			maxHeight = 32	
 			format = right
@@ -264,7 +264,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "total_funds_val"
 			position = { x = 375 y = 387 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "10000p"	
 			maxWidth = 100
 			maxHeight = 32	
@@ -284,7 +284,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "national_bank_val"
 			position = { x = 148 y = 387 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "10000p"	
 			maxWidth = 100
 			maxHeight = 32	
@@ -307,7 +307,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "debt_val"
 			position = { x = 0 y = 426 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "10p"	
 			maxWidth = 250
 			maxHeight = 32	
@@ -328,8 +328,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "interest_val"
 			position = { x = 375 y = 426 }
-			font = "vic_18_black"
-			text = "100¤"	
+			font = "vic_18_black_ori"
+			text = "100ï¿½"	
 			maxWidth = 100
 			maxHeight = 32	
 			format = right
@@ -411,8 +411,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "nat_stock_est"
 			position = { x = 900 y = 113 }
-			font = "vic_22_black"
-			text = "0¤"	
+			font = "vic_22_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 90
 			maxHeight = 32	
 			format = centre
@@ -420,8 +420,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "nat_stock_val"
 			position = { x = 527 y = 115 }
-			font = "vic_22_black"
-			text = "0¤"	
+			font = "vic_22_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 90
 			maxHeight = 32	
 			format = centre
@@ -438,8 +438,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "mil_cost_val"
 			position = { x = 753  y = 81 }
-			font = "Arial12_black"
-			text = "0¤"	
+			font = "Arial12_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 60
 			maxHeight = 32	 
 			format = right
@@ -456,8 +456,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "overseas_cost_val"
 			position = { x = 922 y = 81 }
-			font = "Arial12_black"
-			text = "0¤"	
+			font = "Arial12_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 60
 			maxHeight = 22	
 			format = right
@@ -476,8 +476,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "ind_sub_val"
 			position = { x = 910 y = 54 }
-			font = "vic_22_black"
-			text = "0¤"	
+			font = "vic_22_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 70
 			maxHeight = 18	
 			format = centre
@@ -506,7 +506,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "admin_efficiency"
 			position = { x = 800 y = 217 }
-			font = "vic_18"
+			font = "vic_18_ori"
 			text = "55%"	
 			maxWidth = 80
 			maxHeight = 32	
@@ -536,8 +536,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "exp_val_0"
 			position = { x = 915 y = 185 }
-			font = "vic_22_black"
-			text = "0¤"	
+			font = "vic_22_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 60
 			maxHeight = 32	
 			format = centre
@@ -546,8 +546,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "exp_val_1"
 			position = { x = 915 y = 240 }
-			font = "vic_22_black"
-			text = "0¤"	
+			font = "vic_22_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 60
 			maxHeight = 32	
 			format = centre
@@ -556,8 +556,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "exp_val_2"
 			position = { x = 915 y = 308 }
-			font = "vic_22_black"
-			text = "0¤"	
+			font = "vic_22_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 60
 			maxHeight = 32	
 			format = centre
@@ -566,8 +566,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "exp_val_3"
 			position = { x = 915 y = 388 }
-			font = "vic_22_black"
-			text = "0¤"	
+			font = "vic_22_black_ori"
+			text = "0ï¿½"	
 			maxWidth = 60
 			maxHeight = 32	
 			format = centre
@@ -575,9 +575,9 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "total_exp"
-			position = { x = 753 y = 437 }
+			position = { x = 783 y = 434 }
 			font = "vic_32_black"
-			text = "100¤"	
+			text = "100ï¿½"	
 			maxWidth = 190
 			maxHeight = 32	
 			format = right
@@ -586,8 +586,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "tariff_val"
 			position = { x = 869 y = 499 }
-			font = "vic_22_black"
-			text = "100¤"	
+			font = "vic_22_black_ori"
+			text = "100ï¿½"	
 			maxWidth = 160
 			maxHeight = 32	
 			format = centre
@@ -596,8 +596,8 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "diplomatic_balance"
 			position = { x = 869 y = 542 }
-			font = "vic_22_black"
-			text = "100¤"	
+			font = "vic_22_black_ori"
+			text = "100ï¿½"	
 			maxWidth = 160
 			maxHeight = 32	
 			format = centre
@@ -615,9 +615,9 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "balance"
-			position = { x = 792 y = 578 }
+			position = { x = 822 y = 578 }
 			font = "vic_42_black"
-			text = "0¤"	
+			text = "0ï¿½"	
 			maxWidth = 200
 			maxHeight = 32	
 			format = centre

@@ -68,7 +68,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 342 y = 16 }
 			name = "pop_size"
-			font = "vic_22"
+			font = "vic_22_ori"
 			borderSize = {x = 2 y = 2}
 			text = "9999"	
 			maxWidth = 150
@@ -681,7 +681,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = -4 y = 49 }
 			name = "percentage"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			borderSize = {x = 2 y = 2}
 			text = "99%"	
 			maxWidth = 50
@@ -706,7 +706,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 36 y = 4 }
 			name = "value"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "99"	
 			maxWidth = 58
 			maxHeight = 24

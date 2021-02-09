@@ -727,7 +727,7 @@ guiTypes = {
 					name = "selected_nation_totalrank"
 					position = { x = 79 y = 57 }
 					textureFile = ""
-					font = "Arial12"
+					font = "Arial12_ori"
 					borderSize = {x = 0 y = 0}
 					text = "7"	
 					maxWidth = 24
@@ -847,7 +847,7 @@ guiTypes = {
 				instantTextBoxType = { 
 					name = "country_prestige"
 					position = { x = 200 y = 109 }
-					font = "Arial12_black"
+					font = "Arial12_black_ori"
 					text = "country_prestige"	
 					maxWidth = 100
 					maxHeight = 20	
@@ -856,7 +856,7 @@ guiTypes = {
 					name = "selected_prestige_rank"
 					position = { x = 254 y = 109 }
 					textureFile = ""
-					font = "Arial12_black"
+					font = "Arial12_black_ori"
 					text = "3"	
 					maxWidth = 80
 					maxHeight = 30	
@@ -883,7 +883,7 @@ guiTypes = {
 				instantTextBoxType = { 
 					name = "country_economic"
 					position = { x = 200 y = 126 }
-					font = "Arial12_black"
+					font = "Arial12_black_ori"
 					text = "country_economic"	
 					maxWidth = 100
 					maxHeight = 20	
@@ -892,7 +892,7 @@ guiTypes = {
 					name = "selected_industry_rank"
 					position = { x = 254 y = 126 }
 					textureFile = ""
-					font = "Arial12_black"
+					font = "Arial12_black_ori"
 					text = "12"	
 					maxWidth = 80
 					maxHeight = 30	
@@ -919,7 +919,7 @@ guiTypes = {
 				instantTextBoxType = { 
 					name = "country_military"
 					position = { x = 200 y = 143 }
-					font = "Arial12_black"
+					font = "Arial12_black_ori"
 					text = "country_military"	
 					maxWidth = 100
 					maxHeight = 20	
@@ -928,7 +928,7 @@ guiTypes = {
 					name = "selected_military_rank"
 					position = { x = 254 y = 143 }
 					textureFile = ""
-					font = "Arial12_black"
+					font = "Arial12_black_ori"
 					text = "139"	
 					maxWidth = 80
 					maxHeight = 30	
@@ -952,7 +952,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "country_total"
 				position = { x = 200 y = 160 }
-				font = "Arial12_black"
+				font = "Arial12_black_ori"
 				text = "country_total"	
 				maxWidth = 100
 				maxHeight = 20	
@@ -961,7 +961,7 @@ guiTypes = {
 					name = "selected_total_rank"
 					position = { x = 254 y = 160 }
 					textureFile = ""
-					font = "Arial12_black"
+					font = "Arial12_black_ori"
 					text = "1"	
 					maxWidth = 80
 					maxHeight = 30	
@@ -982,7 +982,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "country_population"
 				position = { x = 243 y = 177 }
-				font = "vic_18"
+				font = "vic_18_ori"
 				text = "country_population"	
 				maxWidth = 100
 				maxHeight = 20
@@ -1222,7 +1222,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "infamy_text"
 				position = { x= 75 y = 266 }
-				font = "vic_18_black"
+				font = "vic_18_black_ori"
 				text = " "	
 				maxWidth = 40
 				maxHeight = 20	
@@ -1231,7 +1231,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "warexhastion_text"
 				position = { x= 75 y = 293 }
-				font = "vic_18_black"
+				font = "vic_18_black_ori"
 				text = " "	
 				maxWidth = 40
 				maxHeight = 20	
@@ -1240,7 +1240,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "brigade_text"
 				position = { x= 75 y = 320 }
-				font = "vic_18_black"
+				font = "vic_18_black_ori"
 				text = " "	
 				maxWidth = 40
 				maxHeight = 20	
@@ -1249,7 +1249,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "ships_text"
 				position = { x= 75 y = 347 }
-				font = "vic_18_black"
+				font = "vic_18_black_ori"
 				text = " "	
 				maxWidth = 40
 				maxHeight = 20	
@@ -1324,7 +1324,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp0"
 			position = { x = 210 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "0"	
 			maxWidth = 25
 			maxHeight = 20	
@@ -1332,7 +1332,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp1"
 			position = { x = 235 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "1"	
 			maxWidth = 25
 			maxHeight = 20	
@@ -1340,7 +1340,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp2"
 			position = { x = 260 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "2"	
 			maxWidth = 25
 			maxHeight = 20	
@@ -1348,7 +1348,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp3"
 			position = { x = 285 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "3"	
 			maxWidth = 25
 			maxHeight = 20	
@@ -1356,7 +1356,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp4"
 			position = { x = 310 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "4"	
 			maxWidth = 25
 			maxHeight = 20	
@@ -1364,7 +1364,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp5"
 			position = { x = 335 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "5"	
 			maxWidth = 110
 			maxHeight = 20	
@@ -1372,7 +1372,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp6"
 			position = { x = 360 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "6"	
 			maxWidth = 25
 			maxHeight = 20	
@@ -1380,7 +1380,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_gp7"
 			position = { x = 385 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "7"	
 			maxWidth = 25
 			maxHeight = 20	
@@ -1394,7 +1394,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_prestige"
 			position = { x = 437 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "rank"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1402,7 +1402,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_economic"
 			position = { x = 459 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "rank"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1410,7 +1410,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_military"
 			position = { x = 481 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "rank"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1418,7 +1418,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_total"
 			position = { x = 503 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "rank"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1435,7 +1435,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_relation"
 			position = { x = 592 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "relation"	
 			maxWidth = 30
 			maxHeight = 20	
@@ -1511,7 +1511,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_prestige"
 			position = { x = 269 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "123"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1519,7 +1519,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_economic"
 			position = { x = 269 y = 18 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "123"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1527,7 +1527,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_military"
 			position = { x = 269 y = 31 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "123"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1536,7 +1536,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_total"
 			position = { x = 269 y = 44 }
-			font = "Arial12_bold_black"
+			font = "Arial12_bold_black_ori"
 			text = "1234"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1600,7 +1600,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "nongp_country_influence"
 			position = { x = 47 y = -5 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "1234"	
 			maxWidth = 85
 			maxHeight = 20
@@ -1610,7 +1610,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "nongp_country_invest"
 			position = { x = 48 y = 10 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "1234"	
 			maxWidth = 100
 			maxHeight = 20
@@ -1729,7 +1729,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "attackers_mil_strength"
 			position = { x = 150 y = 34 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "345"	
 			maxWidth = 40
 			maxHeight = 20
@@ -1739,7 +1739,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "defenders_mil_strength"
 			position = { x = 409 y = 34 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "345"	
 			maxWidth = 40
 			maxHeight = 20
@@ -1771,7 +1771,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "warscore_text"
 			position = { x = 252 y = 33 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = ""	
 			maxWidth = 100
 			maxHeight = 20
@@ -1894,7 +1894,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "cb_progress_text"
 			position = { x = 252 y = 11 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = ""	
 			maxWidth = 100
 			maxHeight = 20
@@ -1958,7 +1958,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "cb_progress_text"
 			position = { x = 252 y = 11 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = ""	
 			maxWidth = 100
 			maxHeight = 20

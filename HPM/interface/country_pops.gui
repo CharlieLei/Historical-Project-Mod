@@ -413,7 +413,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 83 y = 19 }
 			name = "poplist_numpops"
-			font = "vic_18"
+			font = "vic_18_ori"
 			borderSize = { x = 0 y = 0 }
 			text = "num"	
 			maxWidth = 100
@@ -493,7 +493,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 91 y = 19 }
 			name = "poplist_numpops"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			borderSize = { x = 0 y = 0 }
 			text = "num"	
 			maxWidth = 100
@@ -558,7 +558,7 @@ guiTypes = {
 		instantTextBoxType = {
 			position = { x = 169 y = 8 }
 			name = "poplist_numpops"
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			borderSize = { x = 0 y = 0 }
 			text = "num"	
 			maxWidth = 30
@@ -668,7 +668,7 @@ guiTypes = {
 			format = right
 
 			textureFile = ""
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			borderSize = {x = 4 y = 0}
 			text = ""	
 			maxWidth = 100
@@ -729,7 +729,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = { x = 3 y = 9 }
 				name = "pop_size"
-				font = "Arial12_bold_black"
+				font = "Arial12_bold_black_ori"
 				borderSize = {x = 2 y = 2}
 				text = ""	
 				maxWidth = 50
@@ -792,7 +792,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = { x = 317 y = 9 }
 				name = "pop_mil"
-				font = "Arial12_black"
+				font = "Arial12_black_ori"
 				borderSize = {x = 2 y = 2}
 				text = ""	
 				maxWidth = 40
@@ -805,7 +805,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = { x = 356 y = 9 }
 				name = "pop_con"
-				font = "Arial12_black"
+				font = "Arial12_black_ori"
 				borderSize = {x = 2 y = 2}
 				text = ""	
 				maxWidth = 40
@@ -867,7 +867,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = { x = 480 y = 9 }
 				name = "pop_cash"
-				font = "Arial12_black"
+				font = "Arial12_black_ori"
 				borderSize = {x = 2 y = 2}
 				text = ""	
 				maxWidth = 62
@@ -956,7 +956,7 @@ guiTypes = {
 			instantTextBoxType = {
 				position = { x = 668 y = 9 }
 				name = "pop_literacy"
-				font = "Arial12_black"
+				font = "Arial12_black_ori"
 				borderSize = {x = 2 y = 2}
 				text = ""	
 				maxWidth = 60

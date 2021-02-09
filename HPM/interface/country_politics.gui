@@ -115,7 +115,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "plurality_value"
 			position = { x = 270 y = 55 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "100%"	
 			maxWidth = 40
 			maxHeight = 30	
@@ -131,7 +131,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "revanchism_value"
 			position = { x = 330 y = 55 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "100%"	
 			maxWidth = 40
 			maxHeight = 30	
@@ -465,7 +465,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "suppression_value"
 				position = { x = 210 y = 74 }
-				font = "vic_18_black"
+				font = "vic_18_black_ori"
 				text = "999"
 				maxWidth = 60
 				maxHeight = 20
@@ -1245,7 +1245,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "research_points_val"
 				position = { x = 844 y = 61 }
-				font = "vic_22_black"
+				font = "vic_22_black_ori"
 				text = "999"
 				maxWidth = 100
 				maxHeight = 22
@@ -2001,7 +2001,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "people_perc"
 			position = { x = 245 y = 1 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "REFORM_NAME"	
 			maxWidth = 80
 			maxHeight = 20
@@ -2010,7 +2010,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "voters_perc"
 			position = { x = 164 y = 1 }
-			font = "Arial12_black"
+			font = "Arial12_black_ori"
 			text = "REFORM_NAME"	
 			maxWidth = 80
 			maxHeight = 20
@@ -2196,7 +2196,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "size"
 			position = { x = 2 y = 52 }
-			font = "vic_18"
+			font = "vic_18_ori"
 			text = ""	
 			maxWidth = 57
 			maxHeight = 20
@@ -2206,7 +2206,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "brigades_ready"
 			position = { x = 59 y = 52 }
-			font = "vic_18"
+			font = "vic_18_ori"
 			text = "14"	
 			maxWidth = 57
 			maxHeight = 20
@@ -2216,7 +2216,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "brigades_active"
 			position = { x = 116 y = 52 }
-			font = "vic_18"
+			font = "vic_18_ori"
 			text = "12"	
 			maxWidth = 57
 			maxHeight = 20
@@ -2529,7 +2529,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "size"
 			position = { x = 23 y = 29 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "9999"
 			maxWidth = 50
 			maxHeight = 20
@@ -2539,7 +2539,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "radical_val"
 			position = { x = 94 y = 29 }
-			font = "vic_18_black"
+			font = "vic_18_black_ori"
 			text = "999"
 			maxWidth = 50
 			maxHeight = 20
