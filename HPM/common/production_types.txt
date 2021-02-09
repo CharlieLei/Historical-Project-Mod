@@ -238,7 +238,12 @@ electric_gear_factory = {
     output_goods = electric_gear
     value = 5.6            #89.6 - profit = 16.6
     bonus = {
-        trigger = { trade_goods_in_state = rubber }
+        trigger = {
+        	OR = {
+				has_building = synthetic_rubber_factory
+				trade_goods_in_state = rubber
+			}
+        }
         value = 0.05
     }
     bonus = {
@@ -280,6 +285,24 @@ synthetic_oil_factory = {
         trigger = { trade_goods_in_state = coal }
         value = 0.25
     }
+}
+
+synthetic_rubber_factory = {
+	template = factory_template	#50
+	input_goods = {
+		oil = 10		#
+	}
+	output_goods = rubber
+	value = 14
+	bonus = {
+		trigger = {
+			OR = {
+				has_building = synthetic_oil_factory
+				trade_goods_in_state = oil
+			}
+		}
+		value = 0.2
+	}
 }
 
 ############# ADVANCED FACTORIES
